@@ -1,0 +1,3 @@
+com\example\webchatapplication\handler\ChatWebSocketHandler.class
+com\example\webchatapplication\configuration\webSocketConfiguration.class
+com\example\webchatapplication\WebChatApplication.class
